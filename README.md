@@ -9,7 +9,7 @@ dependency injection, Redis caching, MySQL storage, and adherence to software re
 
 ## Improvements
 
-This app is still a work in progress and could be improved by adding a repository layer that relies on SQL migrations. It would also be helpful to add logging, more exceptions
+This app is still a work in progress and could be improved by adding a repository layer that relies on SQL migrations. It would also be helpful to add logging, unit tests, more exceptions
 and to restructure the architecture into a Clean Code architecture for better flow and readability. There 
 
 ## Getting Started
