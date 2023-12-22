@@ -18,6 +18,12 @@ and to restructure the architecture into a Clean Code architecture for better fl
 
 * Clone the repository here: https://github.com/kamogelo-r/RatesConverter.git
 * Download and install the Redis Server
+* Install all missing dependencies (if there are any)
+
+### Executing program
+
+* Hit F5 in Visual Studio to run the app
+* Interact with any of these endpoints to use the app ![image](https://github.com/kamogelo-r/RatesConverter/assets/52213066/808ddbf3-f35e-4b5f-adc9-e005c591c2bd)
 
 ## Authors
 
